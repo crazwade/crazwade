@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=crazwade&label=Profile%20views&color=0e75b6&style=flat" alt="crazwade" /> 
 </p>
 
-- 🖼️ 我的線上個人履歷 => [here](https://crazwade.github.io/profile/) (Orz)
+- 🖼️ 我的線上個人履歷 => [here](https://crazwade.github.io/portfolio/) (Orz)
 
 - 🌱 目前持續精進 **TypeScript, 專案開發流程**
 
