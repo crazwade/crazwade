@@ -18,6 +18,8 @@
 - [線上履歷](https://crazwade.github.io/profile/)
 - [Backstage Management System](https://crazwade.github.io/BMS/dist/) - Demo 後臺管理系統的專案 🖥️ → [Repo](https://github.com/crazwade/BMS)
 - [LogViewer](https://crazwade.github.io/LogViewer/) - 為後端工程師設計的日誌查看系統 🧑‍💻 → [Repo](https://github.com/crazwade/LogViewer)
+- [Classroom Assistance System](https://crazwade.github.io/CSR/) - 課堂輔助系統 🧑‍🏫 → [Repo](https://github.com/crazwade/CSR)
+- [新竹觀光 All in one 智慧路線](https://crazwade.github.io/MeichuHackaThon2024/#/) - 2024 梅竹黑客松 創客交流組 🏅 → [Repo](https://github.com/crazwade/MeichuHackaThon2024)
 - [MiniGamePlayground](https://crazwade.github.io/MiniGamePlayground/) - 使用 Vue 3 開發的迷你遊戲合集項目 🎮  → [Repo](https://github.com/crazwade/MiniGamePlayground)
 
 ## ⛏ 技能樹 & 工具
