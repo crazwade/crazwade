@@ -15,7 +15,6 @@
 
 ## 📂 Projects
 
-- [線上履歷](https://crazwade.github.io/profile/)
 - [Backstage Management System](https://crazwade.github.io/BMS/dist/) - Demo 後臺管理系統的專案 🖥️ → [Repo](https://github.com/crazwade/BMS)
 - [LogViewer](https://crazwade.github.io/LogViewer/) - 為後端工程師設計的日誌查看系統 🧑‍💻 → [Repo](https://github.com/crazwade/LogViewer)
 - [Classroom Assistance System](https://crazwade.github.io/CSR/) - 課堂輔助系統 🧑‍🏫 → [Repo](https://github.com/crazwade/CSR)
